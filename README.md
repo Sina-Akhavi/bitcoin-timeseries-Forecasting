@@ -1,2 +1,2 @@
-# Time Series Forecasting by LSTM
-a model is implemented utilizing LSTM to forecast bitcoin time series
+# Time Series Forecasting by LSTM, CNN and ARIMA
+Three forecasting models have been created to forecast bitcoin usd time series. 
